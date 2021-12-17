@@ -1,0 +1,236 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    background-image: url('foodmain.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;  
+}
+
+.img3 {
+    padding: 0;
+    margin: 0 ;
+}
+.img-foodmain2 {
+    position:absolute;
+    max: width 5px;
+    float:left;
+    top: 860px;
+    left:5%;
+    }
+    hr{ 
+        display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.20em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: 1px;
+      } 
+.main-bar1{
+    text-align: center;
+    
+    
+}
+.menu-bar1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(254, 255, 254);
+}
+.menu-bar1 ul a{
+    color: rgb(254, 255, 254);
+    text-decoration: none;
+}
+.menu-bar1 ul li.a1{
+    
+    position:absolute;
+    cursor: pointer;
+    top: 8px;
+    left:5%;
+}
+.menu-bar1 ul li.a2{
+    
+        position:absolute;
+        cursor: pointer;
+        top: 8px;
+        left: 8%; 
+}
+.menu-bar1 ul li.a3{
+    
+    position:absolute;
+    cursor: pointer;
+    top: 7px;
+    left:11%;
+}
+.menu-bar1 ul li.a4{
+    
+    position:absolute;
+    cursor: pointer;
+    top: 8px;
+    left:14%;
+}
+.menu-bar1 ul li.a5{
+    
+    position:absolute;
+    cursor: pointer;
+    top: 8px;
+    left:17%;
+}
+.menu-bar1 ul li.a6{
+    
+    position:absolute;
+    cursor: pointer;
+    top: 8px;
+    left:20%;
+}
+.menu-bar1 ul li.a7{
+    
+    position:absolute;
+    cursor: pointer;
+
+    top: 8px;
+    left:57%;
+}
+.menu-bar1 ul li.a8{
+    
+    position:absolute;
+    top: 8px;
+    left:74%;
+}
+.menu-bar1 ul li.a9{
+    
+    position:absolute;
+    top: 8px;
+    left:88%;
+}
+.menu-bar3{
+    padding:0px;
+    position: absolute;
+    top: 30px;
+    width:100%;
+    text-align: center;
+    color:greenyellow;
+    font-size:15px;
+}
+.menu-bar3{
+    text-align:center;
+
+}
+.menu-bar3 ul{
+    display:inline-flex;
+    list-style: none;
+    color: white;
+
+}
+.menu-bar3 ul a{
+    color: white;
+    text-decoration: none;
+}
+.menu-bar3 ul li.a10{
+    position: absolute;
+    top: 20px;
+    left: 55%;
+}
+.menu-bar3 ul li.a11{
+    position: absolute;
+    top: 20px;
+    left:61%;
+}
+.menu-bar3 ul li.a12{
+    position: absolute;
+    top: 20px;
+    left: 68%;
+}
+.menu-bar3 ul li.a13{
+    position: absolute;
+    top: 20px;
+    left: 76%;
+}
+.menu-bar3 ul li.a14{
+    position: absolute;
+    top: 20px;
+    left: 83%;
+}
+.menu-bar3 ul li.a15{
+    position: absolute;
+    top: 20px;
+    left:89%;
+}
+.menu-bar2{
+    color: rgb(17, 228, 17);
+    font-size: 13px;
+    position: absolute;
+    top:40px;
+    left:3%;
+}
+.title h1{
+	position: absolute;
+	top:53%;
+	left:50%;
+	transform:translate(-49%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size:30px;
+	font-weight:normal ;
+	font-family:s;
+
+}
+.title h2{
+	position: absolute;
+	top:60%;
+	left:50%;
+	transform:translate(-55%,-50%);
+}
+.title h2{
+	color: #fff;
+	font-size:30px;
+	font-weight:bold;
+}
+.item{
+    padding:0px;
+}
+.btn{
+    padding:16px 30px;
+    position: absolute;
+    outline: none;
+    border: 0;
+    font-weight: bold;
+    inline-size:auto;
+     border-radius: 30px;
+    top:530px;
+    width:11%;
+    left:45%;
+    font-size:15px;
+    text-align: center;
+    color:green;
+    cursor: pointer;
+    transition: all 0.2s linear;
+
+}
+.btn:hover,
+.btn:focus{
+ background:white;
+}
+.btn:active{
+    background:green ;
+
+}
+.border{
+    position: absolute;
+    height:160px;
+    padding:0px;
+    margin:4%;
+    bottom-style: solid;
+    border-width: 0px;
+    background-color: burlywood;
+    border-radius:0;
+    transform: translate(0%,-5%);
+}
+
+     
